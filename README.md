@@ -1,5 +1,5 @@
 # github_experiments
-Today is good
+Today is friday and moreover it was a goodday.
 small code execution
 come back is never easy.
 05 TO 100
