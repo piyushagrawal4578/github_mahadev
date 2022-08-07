@@ -1,0 +1,9 @@
+
+Create a simple directory at current folder/directory
+
+$ mkdir book_titles
+output:
+
+$ ls
+book_titles
+Example-2
